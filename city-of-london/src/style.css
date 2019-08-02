@@ -1,0 +1,72 @@
+element.style {
+}
+.headtext {
+    color: white;
+    margin-top: 6%;
+    margin-left: 5%;
+}
+h1{text-align: center;
+color: blue;}
+
+img {
+display: block;
+margin: auto;
+}
+body {
+    background-color: lightblue;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Amita;
+}
+
+.jumbotron {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 25px;
+}
+
+h3 {
+  letter-spacing: 1px;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+li strong, .subTitle {
+  color: blue;  
+}
+
+#imgHeader {
+  width: 100%;
+}
+
+.subTitle p {
+  text-transform: uppercase;
+  display : inline-block;
+  letter-spacing: 2px;
+  font-size: 14px;
+  margin: 20px;
+}
+.fa .fa-apple {
+  color: #fff;
+  margin: auto;
+  font-size: 32px;
+}
+.logo-center {
+  margin-top: 45px;
+  text-align: center;
+}
